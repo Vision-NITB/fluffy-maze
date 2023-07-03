@@ -1,6 +1,6 @@
 # Team Members :
 
-
+-Ayushi Mohta
 - Rajneesh Kushwaha
 - Sanyam Jain
 
